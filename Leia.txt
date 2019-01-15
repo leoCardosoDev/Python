@@ -1,2 +1,4 @@
 1- Curso em video
 https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
+
+2- Python - Escreva seus primeiros programas - Casa do Codigo
