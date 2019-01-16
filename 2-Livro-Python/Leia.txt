@@ -1,0 +1,2 @@
+Exemplos retirados do livro:
+Python - Escreva seus primeiros programas - Casa do Codigo
