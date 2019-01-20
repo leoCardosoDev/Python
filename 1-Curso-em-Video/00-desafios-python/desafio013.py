@@ -1,3 +1,4 @@
 salario = float(input('Digite o salário atual: R$ '))
-salario12 = salario + (salario * 0.12)
-print(salario12)
+aumento = int(input('Digite o aumento(%): '))
+new_pay = salario + (salario * (aumento / 100))
+print(new_pay)
